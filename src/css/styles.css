@@ -36,6 +36,8 @@ body {
 }
 
 .country-list__flag {
+  width: 30px;
+  height: auto;
   margin-right: 10px;
 }
 
