@@ -37,7 +37,7 @@ body {
 
 .country-list__flag {
   width: 30px;
-  height: auto;
+  height: 30px;
   margin-right: 10px;
 }
 
