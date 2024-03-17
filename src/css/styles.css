@@ -10,7 +10,6 @@ body {
   margin: 0 auto;
   padding: 20px;
   background-color: #ffefd5;
-  text-align: center;
 }
 
 #search-box {
@@ -32,7 +31,6 @@ body {
 .country-list__item {
   display: flex;
   align-items: center;
-  justify-content: center;
   padding: 10px;
   border-bottom: 1px solid #ddd;
 }
@@ -50,7 +48,6 @@ body {
 
 .country-info__item {
   margin-bottom: 10px;
-  text-align: left;
 }
 
 .country-info__item p {
